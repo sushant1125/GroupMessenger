@@ -1,0 +1,2 @@
+This is a group messenger that preserves total ordering as well as causal ordering of all messages. In addition, this implementation contains a 
+key-value table that each device uses to individually store all messages on its local storage.
